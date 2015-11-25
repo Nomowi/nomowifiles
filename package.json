@@ -1,0 +1,21 @@
+{
+	"main": "appdata/index.html",
+	"name": "NomowiFiles",
+	"single-instance": false,
+	"window": {
+		"title": "Nomowi Files",
+		"icon": "appdata/NomowiFiles.png",
+		"position": "center",
+		"toolbar": true,
+		"frame": true,
+		"width": 1060,
+		"height": 660,
+		"min_width": 350,
+		"min_height": 114
+	},
+	"webkit": {
+		"plugin": true
+	},
+	"dependencies": {
+	}
+}
